@@ -41,4 +41,7 @@ body {
     position: relative;
     top: -34px;
   }
-  
+
+  .source-code {
+    text-align: center;
+  }
